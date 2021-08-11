@@ -22,9 +22,28 @@
     background: #9575CD ;
     color:floralwhite;
 }
-
-address{
+.my-row
+{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.my-container
+{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.address{
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
+}
+
+body
+{
+padding: 50px 0px 0px 0px;
+z-index: 0;
+}
+.navbar-dark
+{
+    background-color: #512dA8;
 }
